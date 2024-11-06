@@ -10,7 +10,7 @@ Think through this with me. We can do it.
 
 ![Black and white version of a Picard facepalm](https://vic-kostrzewski.github.io/images/facepalm.JPG)
 
-**1. Understand your "why" before you commit.** For a lot of people, being more online is exactly what's needed. They thrive on resistance, on organising, or maybe their work just gets better when they're plugged in. But if you wake up one morning thinking, "I've got to stop being here", and gesturing vaguely towards the browser window, then it makes sense to work out why it makes sense to taper your online use. I'll be doing this because my mental health is better without being always "on", and because my work and my fun suffers when bad news distract me.
+**1. Understand your "why" before you commit.** For a lot of people, being more online is exactly what's needed. They thrive on resistance, on organising, or maybe their work just gets better when they're plugged in. But if you wake up one morning thinking, "I've got to stop being here", and gesturing vaguely towards the browser window, then it makes sense to work out why it would help to taper your online use. I'll be doing this because my mental health is better without being always "on", and because my work and my fun suffers when bad news distract me.
 
 **2. Get clear on what you can actually achieve.** Come on now. I'm typing this in a browser window, because that's the least bothersome workflow for my blog. So much of what we're doing is dependent on staying connected to the internet. Which means that, as you look through all this, you'll need time to decide: which connections are vital, and which you can pause?
 
