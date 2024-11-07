@@ -16,9 +16,7 @@ Or would have been, if I'd made the right documentation notes, instead of the bl
 
 So here goes. 10 ideas about own project notes which are actually useful. Learn from this, laugh at this, commiserate if you wish...
 
-Oh, and, future self, if you're reading this,
-
-![I've got my eyes on you!](https://vic-kostrzewski.github.io/images/eyesonyou.gif)
+Oh, and, future self, if you're reading this, **I know where you live. Do better.**
 
 
 **1. It's not "extra work", it's saving your future self's time.** I'm feeling this one right now. Adding 15 seconds every 10 minutes, back at Milestone 1, would have saved hours of head-scratching and desk headbutts now that I'm at Milestone 2. It's so obvious.
