@@ -21,7 +21,7 @@ Oh, and, future self, if you're reading this, **I know where you live. Do better
 
 **1. It's not "extra work", it's saving your future self's time.** I'm feeling this one right now. Adding 15 seconds every 10 minutes, back at Milestone 1, would have saved hours of head-scratching and desk headbutts now that I'm at Milestone 2. It's so obvious.
 
-**2. Write for your future self, but on a really bad day.** I know there were moments when I was totally cruising through the work, just going from one thing from the next, thinking, "YEAH! I've got this now, it all makes sense!" Well, it doesn't any more, and also, I'm recovering from an injury, so I'm much more grumpy and everything takes more time. When you write the notes, don't shy away from dumbing them down and breaking them down more than you need to. You're one bad week away from having to rely on your past self's kindness here.
+**2. Write for your future self, but on a really bad day.** I know there were moments when I was totally cruising through the work, just going from one thing to the next, thinking, "YEAH! I've got this now, it all makes sense!" Well, it doesn't any more, and also, I'm recovering from an injury, so I'm much more grumpy and everything takes more time. When you write the notes, don't shy away from dumbing them down and breaking them down more than you need to. You're one bad week away from having to rely on your past self's kindness here.
 
 **3. "Rough but thorough" is better than "edited and laconic".** Listen, nobody's giving you a book deal for this one. Write this for yourself. Write more than you need to, and if editing slows you down, forgo the edits.
 
@@ -31,7 +31,7 @@ Oh, and, future self, if you're reading this, **I know where you live. Do better
 
 **6. Choose your buckets wisely.** Where will you look, if you have to visit this place again? If you think the answer is obvious, make it obviouser still. Trust me, it won't be obvious in a few weeks' time.
 
-**7. Is audio the way to go?** If your project mostly involves screen / keyboard work, then maybe you feel a mental block from having to commit to yet another open tab / window in which to record your docs. Make like Dana Scully and dictate stuff to yourself. It's now easier than ever to have good quality transcripts appear in your folder in no time at all.
+**7. Is audio the way to go?** If your project mostly involves screen / keyboard work, then maybe you feel a mental block from having to commit to yet another open tab / window in which to type your docs. Make like Dana Scully and dictate stuff to yourself. It's now easier than ever to have good quality transcripts appear in your folder in no time at all.
 
 **8. Have few flags and use them generously.** It doesn't make sense (to me at least) to go overboard with formatting and labelling if the project notes are just for me. But I'd probably appreciate at least these two signals: "this is what really stumped me" and "this is what worked really well". Make them easy to use (bold and italic, green and red if you can do colour, or keyword / mic taps if you're dictating).
 
