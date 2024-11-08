@@ -7,7 +7,7 @@ I've been feeling restless for about a week now. The election news just added to
 
 If I could wish for different things for us to build next year, what would I wish for? Let me count the ways.
 
-![a smiling brick](https://vic-kostrzewski.github.io/images/brick.png)
+![a smiling brick](https://vic-kostrzewski.github.io/images/brick.PNG)
 
 **1. Let us build something unmonetizable.** Sooner or later, there's an unskippable ad or paywall coming for every bit of our reality. [Online spaces](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start). [Streets](https://genius.com/Banksy-letter-on-advertising-annotated). Everything. If we're starting from scratch next year, I'd want us to build more stuff that nobody makes money from.
 
