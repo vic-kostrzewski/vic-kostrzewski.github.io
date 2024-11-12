@@ -30,6 +30,8 @@ Here are ten ideas for hope-focused jobs.
 
 **10. Hope coach.** Realize the pain of losing hope and spiralling further away from it. Talk about the joy of building, sharing, and strengthening hope. Discuss the tools you have which will move you from pain to joy. Build in accountability for small but constant steps in that direction. That's what a hope coach could do. For a life, for a cause, for a community.
 
+---
+
 You might at this point be saying, "hang on, you're just describing things which a good [Insert Job] should be doing anyway. Why would you want to create a separate job just for hope?"
 
 To this I would say that yes, in an ideal world this objection would be valid, but in practice, values and ideals quickly get crowded out by other tasks unless they're The Only Thing You Care About. That's why there are so many project managers who just want to "get this one over with", or community outreach people who are forever chasing funding, or writers whose work always gets infected with the tons of newspeak that was there when they joined.
