@@ -31,5 +31,6 @@ title: 10 ideas for celebrating Buy Nothing Day
 Yes, this is all coming from a place of privilege. No, I don't expect everyone to relate to any of this. I am writing it for my benefit as much as yours. I find it's so easy for anyone to casually slide back into the well-worn grooves of "shop till we drop", and so this is a reminder that other directions exist.
 
 Have a good Friday when it comes.
+
 ---
 Photo credit: "Drowned shopping cart" by Jules Holleboom is licensed under CC BY-NC-SA 2.0.
