@@ -15,7 +15,7 @@ title: 10 ideas for celebrating Buy Nothing Day
 
 **4. Spend some time taking control of your tech.** You know you've been meaning to un-install all the bloatware, un-check all the dialog boxes in privacy controls that make you forfeit your soul to Jeff Bezos, unsubscribe from all the emails. If you go out and buy yourself a new gadget, the list of tech that owns you will grow by that one item. Instead, make sure you know what your existing ones actually do to your life.
 
-**5. Get good freebies.** Open Culture has documentaries, movies, music. Project Gutenberg has books. Librivox has ebooks. Archive.org still has plenty of stuff. You could literally spend the whole weekend being entertained by something that's good and free and that you don't have to buy.
+**5. Get good freebies.** Open Culture has documentaries, movies, music. Project Gutenberg has ebooks. Librivox has audiobooks. Archive.org still has plenty of stuff. You could literally spend the whole weekend being entertained by something that's good and free and that you don't have to buy.
 
 **6. Do a charity shop drop.** This used to be the best part of every house move. Clothes, books etc - went to a charity shop, and I had more shelf space, or fewer boxes to pack into the car. Who says you need to wait until a house move to feel all Marie-Kondo like? Do it this Friday.
 
