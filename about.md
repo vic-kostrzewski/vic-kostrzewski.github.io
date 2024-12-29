@@ -11,4 +11,5 @@ After hours, I enjoy cycling, running, swimming, jazz, reading, zen, photography
 ### Contact me
 
 [Email me](mailto:vic82@duck.com)
+
 [Set up a 30 min call](https://tidycal.com/vickostrzewski/30min)
