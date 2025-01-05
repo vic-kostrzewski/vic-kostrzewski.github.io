@@ -42,4 +42,5 @@ Happy writing (to future me) and reading (to you) in 2025!
 
 ---
 ![a mini avatar of the author](https://vic-kostrzewski.github.io/images/minime.png)
-Hi, my name is Vic. I am a Learning Designer, Digital Producer and Translator (PL-ENG-PL) currently based in Wales. My professional interests include instructional design for lifelong learning, serious games, low-tech digital learning solutions, and translation/transcreation for the video game industry. I'm always happy to discuss new projects. To get in touch, you can [email me](mailto:vic_kostrzewski@posteo.com) or [set up a video call](https://tidycal.com/vickostrzewski/30min).
+
+**Hi, my name is Vic.** I am a Learning Designer, Digital Producer and Translator (PL-ENG-PL) currently based in Wales. My professional interests include instructional design for lifelong learning, serious games, low-tech digital learning solutions, and translation/transcreation for the video game industry. I'm always happy to discuss new projects. To get in touch, you can [email me](mailto:vic_kostrzewski@posteo.com) or [set up a video call](https://tidycal.com/vickostrzewski/30min).
