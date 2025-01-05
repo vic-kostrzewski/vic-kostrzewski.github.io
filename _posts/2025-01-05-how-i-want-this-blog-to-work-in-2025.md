@@ -38,7 +38,7 @@ It's not like I've got this year's work and stories all planned out... but here'
 Happy writing (to future me) and reading (to you) in 2025!
 
 ---
-*Photo credit: steve lodefink - https://www.flickr.com/photos/lodefink/4317923430/ *
+Photo credit: steve lodefink - https://www.flickr.com/photos/lodefink/4317923430/
 
 ---
 ![a mini avatar of the author](https://vic-kostrzewski.github.io/images/minime.png)
