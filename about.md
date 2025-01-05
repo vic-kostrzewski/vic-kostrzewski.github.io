@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Learning Designer and Content Producer based in South Wales, UK.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+After hours, I enjoy cycling, running, swimming, jazz, reading, zen, photography, and coffee.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email me](mailto:vic82@duck.com)
+
+[Set up a 30 min call](https://tidycal.com/vickostrzewski/30min)
